@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an eminent person in the northerne army: how Sunday night, March 5. 1647. a party of horse and foot came to the wals of Carlile, and having ladders, entred the castle, broke open the gaole, wounded the governour, let out the prisoners, and retreated into Scotland. With the proceedings of the Parliament in Scotland. Also a letter concerning the Lord Inchequin March 13. 1647. Imprimatur Gil. Mabbot.</title>
+            <author>Eminent person in the northerne army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87942</idno>
+            <idno type="STC">Wing L1445A</idno>
+            <idno type="STC">Thomason E431_25</idno>
+            <idno type="STC">ESTC R203779</idno>
+            <idno type="EEBO-CITATION">99863601</idno>
+            <idno type="PROQUEST">99863601</idno>
+            <idno type="VID">161519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161519)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E431[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an eminent person in the northerne army: how Sunday night, March 5. 1647. a party of horse and foot came to the wals of Carlile, and having ladders, entred the castle, broke open the gaole, wounded the governour, let out the prisoners, and retreated into Scotland. With the proceedings of the Parliament in Scotland. Also a letter concerning the Lord Inchequin March 13. 1647. Imprimatur Gil. Mabbot.</title>
+                  <author>Eminent person in the northerne army.</author>
+                  <author>Dowrich, Thomas.</author>
+                  <author>Thorney, Ra.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes letters signed by Tho. Dowrich and Ra. Thorney.</note>
+                  <note>Annotation on Thomason copy: "1647"; the 8 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Carlisle (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161519:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <p>A LETTER FROM An Eminent Perſon in the Northerne ARMY: How Sunday night, March 5. 1647. A Party of Horſe and Foot came to the wals of <hi>Carlile,</hi> and having ladders, entred the Caſtle, broke open the Gaole, woun<g ref="char:EOLhyphen"/>ded the Governour, let out the pri<g ref="char:EOLhyphen"/>ſoners, And retreated into SCOTLAND.</p>
+            <p>WITH The proceedings of the Parliament in SCOTLAND.</p>
+            <p>ALSO A Letter concerning the Lord <hi>Inchequin</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>March 13. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gil. Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <date>
+                  <add>1647</add>
+               </date>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161519:2"/>
+            <!-- PDF PAGE 63 -->
+            <pb n="1" facs="tcp:161519:2"/>
+            <!-- PDF PAGE 63 -->
+            <head>The Copy of a LETTER FROM An eminent Officer at YORKE, <hi>Dated March</hi> 11. 1647.</head>
+            <opener>
+               <salute>Honoured Sir.</salute>
+            </opener>
+            <p>I Received yours and thank you, and make bold once again, becauſe I find no contra<g ref="char:EOLhyphen"/>diction to trouble you with the ſending the incloſed for Cap. <hi>Wiſdom,</hi> who deſires to preſent his ſervice to you.</p>
+            <p>Affaires here goe on peaceably and ſilently, the work of Disbanding in theſe Northern Counties being finiſhed, except onely one Company of Foot in <hi>Weſtmerland,</hi> which had alſo been done before now, with the reſt, but
+<pb n="2" facs="tcp:161519:3"/>
+               <!-- PDF PAGE 64 -->that the money unſigned for their ſupernu<g ref="char:EOLhyphen"/>meraries, fell ſhort.</p>
+            <p>Further Orders are lately ſent again for the ſpeedy disbanding of them alſo, which will ſuddenly be effected.</p>
+            <p>The works about <hi>Skipton</hi> Caſtle in <hi>Craven</hi> are appointed to be demoliſhed, of which the Country thereabouts are generally glad, in regard it hath been ſo ill a neighbour to them in the time of warre, and are thinking, in<g ref="char:EOLhyphen"/>ſtead of demoliſhing the works onely, to de<g ref="char:EOLhyphen"/>moliſh the Caſtle alſo.</p>
+            <p>The remaining Forces of theſe parts, ap<g ref="char:EOLhyphen"/>pointed to ſtand, are alſo formed Officers ap<g ref="char:EOLhyphen"/>pointed, and Troopes, and Companies clo<g ref="char:EOLhyphen"/>ſed according to directions to that purpoſe: And they are now upon their muſtering, and nothing but quietneſſe, as yet, appeares in theſe parts:</p>
+            <p>What the late buſineſſe in <hi>Weſtmerland</hi> and <hi>Cumberland,</hi> will amount to, we cannot yet perfectly diſcern, but for ought I ſee, it carries a very ſuſpitious countenance, being upon this juncture of Disbanding: A party of Horſe from hence will be ſent to diſcover
+<pb n="4" facs="tcp:161519:3"/>
+               <!-- PDF PAGE 64 -->more perfectly the buſineſſe, ſomething more we underſtand of it, for laſt night we were informed by a good hand out of <hi>Cumberland,</hi> that Sir <hi>Philip Muſgrave,</hi> and Sir <hi>Marmaduke Langdale</hi> are in <hi>Scotland,</hi> and that it is repor<g ref="char:EOLhyphen"/>ted they have Commiſſion for the raiſing of Forces in theſe Northern parts, the Troop of Horſe that lately marched through <hi>Weſt<g ref="char:EOLhyphen"/>merland,</hi> are informed to conſiſt of 140. Some underſtanding men informe, that there is an intention of in-Garriſoning <hi>Carlile</hi> and <hi>Bar<g ref="char:EOLhyphen"/>wick</hi> within 14 dayes by that party.</p>
+            <p>Sunday night laſt, there came above 70 Horſemen with a ſmall number of Foote, to the walls of <hi>Carlile</hi> and having ladders en<g ref="char:EOLhyphen"/>tred the Caſtle, and broake open the Goale, releaſed the Troopers and other priſoners, wounded the Gaoler and retreated towards <hi>Scotland.</hi>
+            </p>
+            <p>I have ſent you two Letters which I re<g ref="char:EOLhyphen"/>ceived from <hi>Barwick</hi> and <hi>Corke.</hi>
+            </p>
+            <closer>
+               <signed>Signed by an eminent Officer of the Northern Army.</signed>
+               <dateline>Yorke <date>March 11. 1647</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:161519:4"/>
+            <!-- PDF PAGE 65 -->
+            <head>
+               <hi>THE</hi> Copy of a Letter from <hi>Corke</hi> in <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Lately writ a large Letter unto you with others, from your friends in <hi>Bandon,</hi> incloſed and ſent by one Mr. <hi>Parſons</hi> a ſervant to major generall <hi>Jep<g ref="char:EOLhyphen"/>ſon,</hi> which I hope are delivered you.</p>
+            <p>In that Letter I acquainted you, that my Lord had marched into the Countie of <hi>Limrick</hi> and <hi>Kerye</hi> and diſtroyed all he came at, diſ-inabling them to aide the enemy: his men and horſe being wearied out, he came home, but ſtayed not above fourteen dayes be<g ref="char:EOLhyphen"/>fore hee was forſt out by wants, to look for a liveli<g ref="char:EOLhyphen"/>hood for his men another way, he marched to <hi>Caker</hi> Caſtle that was in ſome diſtreſſe and releived it. That night being ready to lye downe to ſleepe, he had in<g ref="char:EOLhyphen"/>telligence that my Lord <hi>Taffe</hi> and others would bee that night at <hi>Carrick,</hi> and ſome boates laden to goe from <hi>Clomell</hi> to <hi>Waterford:</hi> My Lord preſently made ready, and could at preſent get but 300 Horſe, with thoſe he went himſelfe in perſon, and gave order for the reſt of the Horſe and Foote to follow him, hee came before day to <hi>Carick,</hi> and with thoſe few Troo<g ref="char:EOLhyphen"/>pers got over the <hi>Wale,</hi> took both the Towne, Caſtle and the boate, but my Lord <hi>Taffe</hi> was not there. In the boate was good pillage. And my Lord broke two ſwords to preſerve it, but could not from the Horſe and Foote.</p>
+            <p>After my Lord had put in a Governour and ſettled a Gariſon, he marched to <hi>Calien</hi> and took the Towne and two Caſtles there with the loſſe of a Captaine
+<pb n="3" facs="tcp:161519:4"/>
+               <!-- PDF PAGE 65 -->and ten Souldiers which they paid deare for, for my Lord put above 300 of them to the ſword.</p>
+            <p>My Lord ſtill lies there and hath deſtroyed home to the City of <hi>Kilkenny,</hi> and hath and will deſtroy all in both the Counties of <hi>Tipporary,</hi> and <hi>Kilken<g ref="char:EOLhyphen"/>ny,</hi> which was the nurſery and grainary of the Re<g ref="char:EOLhyphen"/>bels, All this affords but a preſent livelihood for the men that are abroad with my Lord, and many of them daily dye with cold, for want of cloathing. The <hi>Iriſh</hi> know our wants as well as we our ſelves, and are making ready all the force they can againſt us, and if we be not ſpeedily ſupplied with men, mo<g ref="char:EOLhyphen"/>ny, cloathes, armes and amunition I fear the whole Province will be loſt, if we loſe it, the getting of our towne again, will coſt more then the getting of the whole Province would now, for they are at preſent ſo much diſtracted, that if they ſaw but conſiderable ſupply come to us, the better ſort would leave the Kingdome and runne away, my Lord hath written ſeverall Letters to Collonell <hi>Jones</hi> to meete him with his Forces and hath received anſwer from him, but the great raines hath ſo ſwolen the Rivers that they cannot as yet meet, but I hope they will ſhortly, and then I hope you ſhall heare that <hi>Kilkenny</hi> is taken and ſome others places.</p>
+            <closer>
+               <signed>
+                  <hi>Your humble ſervant,</hi> Tho. Dowrich.</signed>
+               <dateline>Cork <date>20 Feb. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of a Letter from a Gentleman in <hi>Barwick.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YOurs I received and doe returne thankes, I can<g ref="char:EOLhyphen"/>not enlarge my ſelfe for matter of newes as yet, out of <hi>Scotland,</hi> only that the Parliament be<g ref="char:EOLhyphen"/>gan
+<pb n="6" facs="tcp:161519:5"/>
+               <!-- PDF PAGE 66 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:161519:5"/>
+               <!-- PDF PAGE 66 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:161519:6"/>
+               <!-- PDF PAGE 67 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:161519:6"/>
+               <!-- PDF PAGE 67 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:161519:7"/>
+               <!-- PDF PAGE 68 -->laſt Thurſday, nothing as yet done, the Earle of <hi>Stamford</hi> ſet out of this Towne for <hi>Edenburgh</hi> laſt Munday, and Mr. <hi>Bryan Stapleton</hi> this morning, things as yet continue in their infancy, and very greate hopes of an happy accommodation, Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale,</hi> Sir <hi>Charles Lucas,</hi> Sir <hi>Lewis Dives</hi> with ſome others that ſerved the King in theſe Wars, as I am informed lye lurking in a place called <hi>Preſton Pannes</hi> about eight miles from <hi>Edenburgh,</hi> expecting God knowes what. No news as yet appeares from the Parliament at <hi>Edenburgh,</hi> but it is thought that a ſhort time will produce much (God ſend good) and then you may expect to heare at large, from</p>
+            <closer>
+               <dateline>Barwick <date>March the 8. 1647.</date>
+               </dateline>
+               <signed>Your reall friend, RA. THORNEY.</signed>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
